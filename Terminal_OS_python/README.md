@@ -34,4 +34,4 @@ Boot it up, write text, play Snake, and relive the golden era of text-based inte
 3. Run the OS with:
 
 ```bash
-python Windows_V_1.03.py
+Python_TERMINAL_OS.py
