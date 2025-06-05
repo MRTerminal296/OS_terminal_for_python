@@ -1,0 +1,4 @@
+⚠️ Requirements
+Python 3.10+
+Terminal that supports curses 
+(Windows: Use CMD or install windows-curses with pip install windows-curses)
