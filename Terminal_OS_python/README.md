@@ -19,7 +19,7 @@ Boot it up, write text, play Snake, and relive the golden era of text-based inte
 
 ## 🎮 Controls (See `controls.txt` for full list)
 
-- **Main Menu**: Navigate using number keys
+- **Main Menu**: Navigate using arrow keys
 - **Writer**: Start typing and hit `ESC` to exit
 - **Snake**:
   - Arrow Keys to move
